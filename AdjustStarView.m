@@ -13,7 +13,7 @@
 @end
 
 @implementation AdjustStarView
-
+//淘宝星星打分
 -(instancetype)initWithFrame:(CGRect)frame
 {
     if (self = [super initWithFrame:frame]) {
